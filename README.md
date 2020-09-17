@@ -16,3 +16,5 @@ cuz it's a web project
 
 ##Purpose
 
+### Copything
+2014 Git.Training
