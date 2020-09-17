@@ -11,5 +11,8 @@ time
 
 ## Deployment
 
+deploy on a web server
+cuz it's a web project
+
 ##Purpose
 
