@@ -9,6 +9,10 @@ fake
 I'm still editing this, for like the fourth
 time
 
+## How to Contribute
+
+do stuff
+
 ## Deployment
 
 deploy on a web server
